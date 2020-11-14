@@ -1,0 +1,31 @@
+{
+  "name": "JSRESTAPI_GETTING_STARTED",
+  "version": "1.0.0",
+  "description": "JSRESTAPI_GETTING_STARTED",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanviredu/JSRESTAPI_GETTING_STARTED.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanviredu/JSRESTAPI_GETTING_STARTED/issues"
+  },
+  "homepage": "https://github.com/tanviredu/JSRESTAPI_GETTING_STARTED#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.20",
+    "mongoose": "^5.10.14",
+    "mongoose-double": "^0.0.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.6"
+  }
+}
